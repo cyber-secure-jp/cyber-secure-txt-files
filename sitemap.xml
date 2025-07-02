@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url><loc>https://cyber-secure.jp/</loc></url>
+  <url><loc>https://cyber-secure.jp/llms.txt</loc></url>
+  <url><loc>https://cyber-secure.jp/robots.txt</loc></url>
+  <url><loc>https://cyber-secure.jp/.well-known/security.txt</loc></url>
+
+  <url><loc>https://www.cyber-secure.jp/services</loc></url>
+  <url><loc>https://www.cyber-secure.jp/policy/security-policy</loc></url>
+  <url><loc>https://www.cyber-secure.jp/policy/privacy-policy</loc></url>
+  <url><loc>https://www.cyber-secure.jp/policy/ai-policy</loc></url>
+
+  <url><loc>https://www.cyber-secure.jp/insights/ai-regulation-risk-2025-06-30</loc></url>
+  <url><loc>https://www.cyber-secure.jp/insights/university-lecture-security-ai-2025-06-16</loc></url>
+  <url><loc>https://www.cyber-secure.jp/insights/cyber-privacy-ai-strategy-2025-01-19</loc></url>
+  <url><loc>https://www.cyber-secure.jp/insights/eu-institution-report-privacy-ai-2024-09-10</loc></url>
+  <url><loc>https://www.cyber-secure.jp/insights/ransomware-response-csirt-2023-08-14</loc></url>
+
+  <url><loc>https://www.cyber-secure.jp/members</loc></url>
+
+</urlset>
