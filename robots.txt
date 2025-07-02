@@ -1,5 +1,13 @@
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
 User-agent: *
 Allow: /
 
+# Explicitly allow key files for LLM crawlers
 Allow: /llms.txt
 Allow: /.well-known/security.txt
