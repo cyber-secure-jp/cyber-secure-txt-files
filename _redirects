@@ -2,5 +2,6 @@
 
 /llms.txt   /llms.txt   200
 /robots.txt   /robots.txt   200
-/security.txt   /security.txt   200
 /.well-known/*   /.well-known/:splat   200
+
+/*   https://www.cyber-secure.jp/:splat   301!
