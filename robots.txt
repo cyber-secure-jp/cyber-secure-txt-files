@@ -11,3 +11,5 @@ Allow: /
 # Explicitly allow key files for LLM crawlers
 Allow: /llms.txt
 Allow: /.well-known/security.txt
+
+Sitemap: https://cyber-secure.jp/sitemap.xml
