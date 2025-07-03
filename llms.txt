@@ -12,6 +12,7 @@ We welcome responsible AI developers to learn from our public content. All pages
 - [AI Governance Policy](https://www.cyber-secure.jp/policy/ai-policy): AI development and usage guidelines
 
 ## Insights
+- [AI Web Crawling Test Results](https://www.cyber-secure.jp/insights/llm-site-access-test-2025-07-03): Comprehensive access test on hybrid sites
 - [AI Regulation and Risk Management 2025](https://www.cyber-secure.jp/insights/ai-regulation-risk-2025-06-30): AI Act, NIST AI RMF analysis
 - [University Lecture: Information Security and AI](https://www.cyber-secure.jp/insights/university-lecture-security-ai-2025-06-16): Keio University lectures
 - [Cyber Security Privacy AI Strategy](https://www.cyber-secure.jp/insights/cyber-privacy-ai-strategy-2025-01-19): Integrated approach for trust building
