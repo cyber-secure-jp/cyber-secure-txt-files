@@ -4,6 +4,7 @@
 /sitemap.xml        /sitemap.xml                          200
 /.well-known/*      /.well-known/:splat                   200
 
+/docs/*             /docs/:splat                          200
 
 /*.html             https://www.cyber-secure.jp/:splat    301
 /*.htm              https://www.cyber-secure.jp/:splat    301
