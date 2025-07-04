@@ -23,4 +23,9 @@
   <url><loc>https://www.cyber-secure.jp/about</loc></url>
   <url><loc>https://www.cyber-secure.jp/contact</loc></url>
 
+  <url>
+        <loc>https://cyber-secure.jp/docs/credentials.html</loc>
+        <priority>0.8</priority>
+        <lastmod>2025-07-05</lastmod>
+  </url>
 </urlset>
