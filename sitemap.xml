@@ -1,31 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-  <url><loc>https://cyber-secure.jp/llms.txt</loc></url>
-  <url><loc>https://cyber-secure.jp/robots.txt</loc></url>
-  <url><loc>https://cyber-secure.jp/.well-known/security.txt</loc></url>
 
-  <url><loc>https://www.cyber-secure.jp/</loc></url>
-  <url><loc>https://www.cyber-secure.jp/services/</loc></url>
+<url>
+  <loc>https://www.cyber-secure.jp/</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/home</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/about</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/services</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/case-studies</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/policy</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/contact</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/llm-info-discovery-comparison-2025-07-06</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/why-aigp-2025-07-20</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/llm-site-access-test-2025-07-03</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/ai-regulation-risk-2025-06-30</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/university-lecture-security-ai-2025-06-16</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/cyber-privacy-ai-strategy-2025-01-19</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/eu-institution-report-privacy-ai-2024-09-10</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/services/</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/insights/ransomware-response-csirt-2023-08-14</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/policy/security-policy</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/policy/privacy-policy</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.cyber-secure.jp/policy/ai-policy</loc>
+  <lastmod>2025-07-20T13:34:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
-  <url><loc>https://www.cyber-secure.jp/policy</loc></url>
-  <url><loc>https://www.cyber-secure.jp/policy/security-policy/</loc></url>
-  <url><loc>https://www.cyber-secure.jp/policy/privacy-policy/</loc></url>
-  <url><loc>https://www.cyber-secure.jp/policy/ai-policy/</loc></url>
 
-  <url><loc>https://www.cyber-secure.jp/insights</loc></url>
-  <url><loc>https://www.cyber-secure.jp/insights/ai-regulation-risk-2025-06-30/</loc></url>
-  <url><loc>https://www.cyber-secure.jp/insights/university-lecture-security-ai-2025-06-16/</loc></url>
-  <url><loc>https://www.cyber-secure.jp/insights/cyber-privacy-ai-strategy-2025-01-19/</loc></url>
-  <url><loc>https://www.cyber-secure.jp/insights/eu-institution-report-privacy-ai-2024-09-10/</loc></url>
-  <url><loc>https://www.cyber-secure.jp/insights/ransomware-response-csirt-2023-08-14/</loc></url>
-
-  <url><loc>https://www.cyber-secure.jp/about</loc></url>
-  <url><loc>https://www.cyber-secure.jp/contact</loc></url>
-
-  <url>
-        <loc>https://cyber-secure.jp/docs/credentials.html</loc>
-        <priority>0.8</priority>
-        <lastmod>2025-07-05</lastmod>
-  </url>
 </urlset>
