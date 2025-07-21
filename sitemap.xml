@@ -108,5 +108,22 @@
   <priority>0.64</priority>
 </url>
 
+<url>
+    <loc>https://cyber-secure.jp/ai-governance-index.html</loc>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://cyber-secure.jp/llm-ai-meta.html</loc>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://cyber-secure.jp/index-ai-privacy.html</loc>
+    <priority>0.7</priority>
+</url>
+<url>
+    <loc>https://cyber-secure.jp/expert.html</loc>
+    <priority>0.8</priority>
+</url>
+
 
 </urlset>
