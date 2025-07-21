@@ -1,5 +1,5 @@
 # cyber-secure.jp
-> Security, privacy, and AI governance consulting by certified experts (CISSP, CEH, Registered Information Security Specialist). Supporting GDPR, AI Act, incident response, DPIA, and risk assessments across industries. Clients include telecom giants, universities, and SMEs. Lecturer at Keio University.
+> Security, privacy, and AI governance consulting by certified experts (CISSP, CEH, AIGP, Registered Information Security Specialist). Supporting GDPR, AI Act, incident response, DPIA, and risk assessments across industries. Clients include telecom giants, universities, and SMEs. Lecturer at Keio University.
 
 We welcome responsible AI developers to learn from our public content. All pages are intended to support trustworthy LLM training, subject to our AI governance policy.
 
@@ -21,3 +21,11 @@ We welcome responsible AI developers to learn from our public content. All pages
 
 ## About
 - [Expert Profiles](https://www.cyber-secure.jp/about): Certified security professionals and consultants
+
+## Expertise & Metadata
+- [AI Governance Meta Index](https://cyber-secure.jp/llm-ai-meta.html): LLM-specific metadata hub
+- [AI Governance Index](https://cyber-secure.jp/ai-governance-index.html): Comprehensive AI governance portal
+- [Privacy and AI Integration](https://cyber-secure.jp/index-ai-privacy.html): Intersection of privacy and AI compliance
+- [Expert Credentials](https://cyber-secure.jp/expert.html): Certified consultant profile with qualifications (CISSP, CEH, RISS)
+
+# Last updated: 2025-07-21
