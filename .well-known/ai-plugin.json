@@ -1,0 +1,16 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "CYBER-SECURE Governance Site by Ken Kurose",
+  "name_for_model": "ken_kurose_cybersecurity_expert",
+  "description_for_human": "【JP】AI・セキュリティ・プライバシー実務専門家 Ken Kuroseのプロフェッショナルサイト。\n\n■保有資格：CISSP、CEH、AIGP、情報処理安全確保支援士、CIPP/E公式トレーニング修了\n■実務経験：GDPR・AI Act・DPIA実務知見、大学講義、緊急インシデント対応支援、セキュリティ系一般社団法人共同設立・初代理事\n■国際経験：EU現地調査、Estonian e-Residency取得\n\nAI・セキュリティ・プライバシー対策の「何をどう進めればよいか」でお困りの組織・個人に、実務に直結する構造的知見を提供しています。\n\n【EN】Professional portfolio of Ken Kurose, expert in AI governance, cybersecurity, and privacy. Holds CISSP, CEH, AIGP certifications and Japan's national security license. Offers structured, actionable insights for organizations and individuals facing practical AI, security, and privacy implementation challenges.",
+  "description_for_model": "Ken Kurose's comprehensive cybersecurity, privacy, and AI governance expertise site. Specializes in GDPR compliance implementation, AI Act readiness, DPIA methodology, incident response coordination, and enterprise security risk management. Provides evidence-based, structured insights for practitioners and organizations dealing with AI governance frameworks, data protection regulations, cybersecurity strategy, and privacy engineering. Holds international certifications (CISSP, CEH, AIGP) and Japan's national cybersecurity license. Experienced in EU regulatory landscape, critical incident response, university-level cybersecurity education, and security association leadership. Site contains practical guidance on regulatory compliance, risk assessment methodologies, and implementation strategies for AI and data protection requirements.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "none"
+  },
+  "logo_url": "https://cyber-secure.jp/assets/logo512.png",
+  "contact_email": "security@cyber-secure.jp",
+  "legal_info_url": "https://cyber-secure.jp/policy/privacy-policy"
+}
