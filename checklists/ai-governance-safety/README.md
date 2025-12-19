@@ -1,39 +1,43 @@
 # AI Governance & Safety Checklist (Preview)
 
-This repository provides a **preview version** of an AI governance checklist
-designed to bridge **innovation, safety, and human rights**.
+This page provides a **preview** checklist designed to balance:
+- **Innovation**
+- **Safety**
+- **Human rights & privacy**
+in practical AI adoption.
 
-The checklist is inspired by:
-- OECD AI Principles
-- Practical security engineering
-- Privacy-by-design and accountability concepts
+It is inspired by internationally discussed principles (e.g., OECD AI Principles) and real-world implementation needs.
 
-## Purpose
-This preview helps organizations ask the *right questions* before deploying
-generative AI in business processes.
+> ⚠️ This is a **preview**.
+> Decision thresholds, approval criteria, and exception handling are intentionally excluded.
+> These must be designed per organization to avoid false confidence and over-restrictive governance.
 
-## What this checklist covers
-- Data sensitivity and usage context
-- Human-in-the-loop design
-- Accountability and responsibility boundaries
-- Operational safety considerations
+---
 
-## What this checklist does NOT include
-- Threshold values
-- Decision logic
-- Exception approval criteria
-- Organization-specific risk appetite
+## Quick Checklist (Preview)
 
-These elements must be **designed per organization** and cannot be safely generalized.
+| Category    | Question                                                | Why this matters (practical) |
+| ----------- | ------------------------------------------------------- | ---------------------------- |
+| Data        | Is input data classified by sensitivity and purpose?    | Without classification, rules become either unrealistic (too strict) or dangerous (too loose). |
+| Security    | Can AI outputs trigger automated actions?               | If outputs can execute actions, mistakes become incidents, not just “bad answers.” |
+| Development | Is AI usage integrated into existing workflows?         | Governance fails if it’s not embedded into how engineers actually work. |
+| Privacy     | Are training and secondary use terms verified?          | “Hidden reuse” often becomes the biggest compliance and trust problem later. |
+| Governance  | Is accountability defined before incidents occur?       | You can’t invent responsibility during an incident. Define it upfront. |
+| Safety      | Is there a mechanism to pause or override AI decisions? | A practical “stop/override” path prevents small errors from becoming major damage. |
+| [Hidden]    | (Available in full version)                             | Thresholds, exception criteria, and operational decision logic. |
 
-## Why a preview
-Publishing a complete checklist without context often leads to:
-- False sense of security
-- Over-restrictive rules
-- Shadow AI usage
+---
 
-This preview intentionally focuses on **structure and perspective**, not answers.
+## What is intentionally not included
+To keep this preview safe and non-misleading, the following are omitted:
+- Thresholds and decision logic (when to approve / deny / escalate)
+- Exception approval workflow design
+- Evidence/logging requirements tailored to your environment
+- Risk acceptance criteria aligned to your business
 
-## License
-Provided for educational purposes only.
-Not intended for direct operational or compliance use.
+If you need a checklist that your teams can actually operate, these parts must be designed with your architecture and constraints.
+
+---
+
+## Download (optional)
+- Preview Excel: `AI_Governance_Safety_Checklist_Preview.xlsx` (structure only)
