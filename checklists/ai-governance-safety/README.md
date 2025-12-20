@@ -39,5 +39,8 @@ If you need a checklist that your teams can actually operate, these parts must b
 
 ---
 
-## Download (optional)
-- Preview Excel: `AI_Governance_Safety_Checklist_Preview.xlsx` (structure only)
+### Download (Full Version)
+
+The comprehensive Excel toolkit (including scoring logic and stakeholder management features) is available upon request. 
+
+Please **[contact us](https://www.cyber-secure.jp/contact)** to receive the latest version and a briefing on how to adapt it to your organization's specific needs.
