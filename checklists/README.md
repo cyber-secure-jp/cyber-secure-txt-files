@@ -6,5 +6,4 @@ This directory contains **preview** checklists and templates.
 - Decision thresholds, approval criteria, and exception handling are intentionally omitted.
 - For operational use, each organization must design criteria based on its data, architecture, and risk appetite.
 
-## Available
-- [AI Governance & Safety Checklist (Preview)](./ai-governance-safety/)
+
