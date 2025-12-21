@@ -5,7 +5,7 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- updated manually on 2025-12-14 -->
+  <!-- updated manually on 2025-12-22 -->
 
   <!-- core pages (use non-www; they resolve to www for Google Sites pages) -->
   <url>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://cyber-secure.jp/insights</loc>
-    <lastmod>2025-12-14</lastmod>
+    <lastmod>2025-12-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -65,7 +65,7 @@
     <priority>0.60</priority>
   </url>
 
-  <!-- insights (13 articles) -->
+  <!-- insights (14 articles) -->
   <url>
     <loc>https://cyber-secure.jp/insights/llm-info-discovery-comparison-2025-07-06</loc>
     <lastmod>2025-07-06</lastmod>
@@ -141,6 +141,13 @@
   <url>
     <loc>https://cyber-secure.jp/insights/university-lecture-2025-12-14</loc>
     <lastmod>2025-12-14</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- NEW: added article -->
+  <url>
+    <loc>https://www.cyber-secure.jp/insights/ai-governance-safety-implementation-2025-12-20</loc>
+    <lastmod>2025-12-20</lastmod>
     <priority>0.90</priority>
   </url>
 
