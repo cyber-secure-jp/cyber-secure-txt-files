@@ -1,10 +1,14 @@
-/llms.txt           /llms.txt                             200!
-/robots.txt         /robots.txt                           200!
-/sitemap.xml        /sitemap.xml                          200!
-/.well-known/*      /.well-known/:splat                   200!
+# 静的ファイルは明示的に除外するか、最上部に書く（Netlifyはファイルがあればそれを優先するが、念のため）
+/llms.txt           /llms.txt                             200
+/robots.txt         /robots.txt                           200  
+/sitemap.xml        /sitemap.xml                          200
 
+# 特定ディレクトリの維持
+/docs/* /docs/:splat                          200
+/.well-known/* /.well-known/:splat                   200
+
+# ルート（https://cyber-secure.jp/）へのアクセスのみをwwwへ飛ばす
 /                   https://www.cyber-secure.jp/          301
-/*.html             https://www.cyber-secure.jp/:splat    301
-/*.htm              https://www.cyber-secure.jp/:splat    301
-/*/                 https://www.cyber-secure.jp/:splat    301
-/*                  https://www.cyber-secure.jp/:splat    301
+
+# それ以外の「存在しないパス」をwwwへ飛ばす（Catch-all）
+/* https://www.cyber-secure.jp/:splat    301
