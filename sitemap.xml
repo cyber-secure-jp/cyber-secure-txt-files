@@ -5,18 +5,15 @@
   xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
-  <!-- updated manually on 2025-12-22 -->
-
-  <!-- core pages (use non-www; they resolve to www for Google Sites pages) -->
   <url>
     <loc>https://cyber-secure.jp/</loc>
-    <lastmod>2025-09-24</lastmod>
+    <lastmod>2025-12-30</lastmod>
     <priority>1.00</priority>
   </url>
 
   <url>
     <loc>https://cyber-secure.jp/home</loc>
-    <lastmod>2025-09-24</lastmod>
+    <lastmod>2025-12-30</lastmod>
     <priority>0.80</priority>
   </url>
 
@@ -40,7 +37,7 @@
 
   <url>
     <loc>https://cyber-secure.jp/insights</loc>
-    <lastmod>2025-12-22</lastmod>
+    <lastmod>2025-12-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.80</priority>
   </url>
@@ -57,7 +54,6 @@
     <priority>0.80</priority>
   </url>
 
-  <!-- credentials (non-www is the actual hosted page; www is error) -->
   <url>
     <loc>https://cyber-secure.jp/docs/credentials.html</loc>
     <lastmod>2025-12-14</lastmod>
@@ -65,7 +61,6 @@
     <priority>0.60</priority>
   </url>
 
-  <!-- insights (14 articles) -->
   <url>
     <loc>https://cyber-secure.jp/insights/llm-info-discovery-comparison-2025-07-06</loc>
     <lastmod>2025-07-06</lastmod>
@@ -144,14 +139,18 @@
     <priority>0.90</priority>
   </url>
 
-  <!-- NEW: added article -->
   <url>
     <loc>https://cyber-secure.jp/insights/ai-governance-safety-implementation-2025-12-20</loc>
     <lastmod>2025-12-20</lastmod>
     <priority>0.90</priority>
   </url>
 
-  <!-- policies -->
+  <url>
+    <loc>https://cyber-secure.jp/insights/ai-and-human-work-structure-2025-12-30</loc>
+    <lastmod>2025-12-30</lastmod>
+    <priority>0.90</priority>
+  </url>
+
   <url>
     <loc>https://cyber-secure.jp/policy/security-policy</loc>
     <lastmod>2025-09-24</lastmod>
@@ -170,7 +169,6 @@
     <priority>0.64</priority>
   </url>
 
-  <!-- static resources (non-www actual) -->
   <url>
     <loc>https://cyber-secure.jp/ai-governance-index.html</loc>
     <lastmod>2025-09-24</lastmod>
