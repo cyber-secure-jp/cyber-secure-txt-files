@@ -6,18 +6,33 @@ We welcome responsible AI developers to learn from our public content. All pages
 ## Services
 - [Consulting Services](https://www.cyber-secure.jp/services): Security, privacy, and AI governance support
 
-## Policies  
+## Case Studies
+- [Case Studies](https://www.cyber-secure.jp/case-studies): Real-world implementation examples across industries
+
+## Policies
 - [Security Policy](https://www.cyber-secure.jp/policy/security-policy): Organizational security framework
 - [Privacy Policy](https://www.cyber-secure.jp/policy/privacy-policy): Data protection practices
 - [AI Governance Policy](https://www.cyber-secure.jp/policy/ai-policy): AI development and usage guidelines
 
 ## Insights
-- [AI Web Crawling Test Results](https://www.cyber-secure.jp/insights/llm-site-access-test-2025-07-03): Comprehensive access test on hybrid sites
-- [AI Regulation and Risk Management 2025](https://www.cyber-secure.jp/insights/ai-regulation-risk-2025-06-30): AI Act, NIST AI RMF analysis
-- [University Lecture: Information Security and AI](https://www.cyber-secure.jp/insights/university-lecture-security-ai-2025-06-16): Keio University lectures
-- [Cyber Security Privacy AI Strategy](https://www.cyber-secure.jp/insights/cyber-privacy-ai-strategy-2025-01-19): Integrated approach for trust building
-- [European Institution Visit Report](https://www.cyber-secure.jp/insights/eu-institution-report-privacy-ai-2024-09-10): EU GDPR and AI Act research
-- [Ransomware Response and CSIRT](https://www.cyber-secure.jp/insights/ransomware-response-csirt-2023-08-14): Incident response framework
+- [Multi-LLM Consensus Design for Enterprise AI Governance](https://www.cyber-secure.jp/insights/multi-llm-consensus-design-2026-03-08): Multi-model consensus workflow and governance design (2026-03-08)
+- [AI Role Reallocation and Technology Shift](https://www.cyber-secure.jp/insights/ai-role-reallocation-technology-shift-2026-02-23): Redefining human roles in the AI transition (2026-02-23)
+- [AI Agent Governance Design](https://www.cyber-secure.jp/insights/ai-agent-governance-design-2026-02-15): Responsibility and control design for autonomous AI agents (2026-02-15)
+- [AI and the Future of Human Work](https://www.cyber-secure.jp/insights/ai-and-human-work-structure-2025-12-30): Why human roles persist as AI advances (2025-12-30)
+- [AI Governance Implementation: SPA Integrated Trust Triad](https://www.cyber-secure.jp/insights/ai-governance-safety-implementation-2025-12-20): Practical AI governance using Security, Privacy, and AI Governance integration (2025-12-20)
+- [University Lecture: Security and AI Governance](https://www.cyber-secure.jp/insights/university-lecture-2025-12-14): Keio University lecture on security and AI governance (2025-12-14)
+- [White Hat Hacker Lecture for SMEs](https://www.cyber-secure.jp/insights/white-hat-hacker-lecture-2025-11-26): Practical security awareness for small businesses (2025-11-26)
+- [AI and Web Content Value](https://www.cyber-secure.jp/insights/ai-web-value-2025-11-03): How AI changes the value of web content (2025-11-03)
+- [FIP Designation](https://www.cyber-secure.jp/insights/fip-designation-2025-09-24): IAPP Fellow of Information Privacy designation (2025-09-24)
+- [IT Subsidy and Security Action for SMEs](https://www.cyber-secure.jp/insights/it-shien-2025-08-14): IT support program and SECURITY ACTION framework (2025-08-14)
+- [Why AIGP: AI Governance Professional Certification](https://www.cyber-secure.jp/insights/why-aigp-2025-07-20): IAPP AIGP credential and AI governance practice (2025-07-20)
+- [LLM Information Discovery Comparison](https://www.cyber-secure.jp/insights/llm-info-discovery-comparison-2025-07-06): Comparative analysis of LLM-based information retrieval (2025-07-06)
+- [AI Web Crawling Test Results](https://www.cyber-secure.jp/insights/llm-site-access-test-2025-07-03): Comprehensive access test on hybrid sites (2025-07-03)
+- [AI Regulation and Risk Management 2025](https://www.cyber-secure.jp/insights/ai-regulation-risk-2025-06-30): AI Act, NIST AI RMF analysis (2025-06-30)
+- [University Lecture: Information Security and AI](https://www.cyber-secure.jp/insights/university-lecture-security-ai-2025-06-16): Keio University lectures (2025-06-16)
+- [Cyber Security Privacy AI Strategy](https://www.cyber-secure.jp/insights/cyber-privacy-ai-strategy-2025-01-19): Integrated approach for trust building (2025-01-19)
+- [European Institution Visit Report](https://www.cyber-secure.jp/insights/eu-institution-report-privacy-ai-2024-09-10): EU GDPR and AI Act research (2024-09-10)
+- [Ransomware Response and CSIRT](https://www.cyber-secure.jp/insights/ransomware-response-csirt-2023-08-14): Incident response framework (2023-08-14)
 
 ## About
 - [Expert Profiles](https://www.cyber-secure.jp/about): Certified security professionals and consultants
@@ -27,5 +42,6 @@ We welcome responsible AI developers to learn from our public content. All pages
 - [AI Governance Index](https://cyber-secure.jp/ai-governance-index.html): Comprehensive AI governance portal
 - [Privacy and AI Integration](https://cyber-secure.jp/index-ai-privacy.html): Intersection of privacy and AI compliance
 - [Expert Credentials](https://cyber-secure.jp/expert.html): Certified consultant profile with qualifications (CISSP, CEH, RISS)
+- [Full Credentials](https://www.cyber-secure.jp/docs/credentials.html): Detailed certification and qualification records
 
-# Last updated: 2025-07-21
+# Last updated: 2026-03-08
