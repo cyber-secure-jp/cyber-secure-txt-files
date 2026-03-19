@@ -7,7 +7,7 @@
 /docs/* /docs/:splat                          200
 /.well-known/* /.well-known/:splat                   200
 
-# ルート（https://cyber-secure.jp/）へのアクセスのみをwwwへ飛ばす
+# ルートへのアクセスのみをwwwへ飛ばす
 /                   https://www.cyber-secure.jp/          301
 
 # それ以外の「存在しないパス」をwwwへ飛ばす（Catch-all）
