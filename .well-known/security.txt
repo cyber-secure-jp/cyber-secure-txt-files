@@ -2,4 +2,4 @@ Contact: mailto:security@cyber-secure.jp
 Expires: 2026-12-31T23:59:59.000Z
 Policy: https://www.cyber-secure.jp/policy/security-policy
 Preferred-Languages: ja, en
-Canonical: https://cyber-secure.jp/security.txt
+Canonical: https://static.cyber-secure.jp/security.txt
