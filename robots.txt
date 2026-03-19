@@ -12,4 +12,4 @@ Allow: /
 Allow: /llms.txt
 Allow: /.well-known/security.txt
 
-Sitemap: https://cyber-secure.jp/sitemap.xml
+Sitemap: https://static.cyber-secure.jp/sitemap.xml
