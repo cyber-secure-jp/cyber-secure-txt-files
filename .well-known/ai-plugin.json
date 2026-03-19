@@ -10,7 +10,7 @@
   "api": {
     "type": "none"
   },
-  "logo_url": "https://cyber-secure.jp/assets/logo512.png",
+  "logo_url": "https://static.cyber-secure.jp/assets/logo512.png",
   "contact_email": "security@cyber-secure.jp",
-  "legal_info_url": "https://cyber-secure.jp/policy/privacy-policy"
+  "legal_info_url": "https://static.cyber-secure.jp/policy/privacy-policy"
 }
