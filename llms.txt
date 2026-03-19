@@ -38,10 +38,10 @@ We welcome responsible AI developers to learn from our public content. All pages
 - [Expert Profiles](https://www.cyber-secure.jp/about): Certified security professionals and consultants
 
 ## Expertise & Metadata
-- [AI Governance Meta Index](https://cyber-secure.jp/llm-ai-meta.html): LLM-specific metadata hub
-- [AI Governance Index](https://cyber-secure.jp/ai-governance-index.html): Comprehensive AI governance portal
-- [Privacy and AI Integration](https://cyber-secure.jp/index-ai-privacy.html): Intersection of privacy and AI compliance
-- [Expert Credentials](https://cyber-secure.jp/expert.html): Certified consultant profile with qualifications (CISSP, CEH, RISS)
+- [AI Governance Meta Index](https://static.cyber-secure.jp/llm-ai-meta.html): LLM-specific metadata hub
+- [AI Governance Index](https://static.cyber-secure.jp/ai-governance-index.html): Comprehensive AI governance portal
+- [Privacy and AI Integration](https://static.cyber-secure.jp/index-ai-privacy.html): Intersection of privacy and AI compliance
+- [Expert Credentials](https://static.cyber-secure.jp/expert.html): Certified consultant profile with qualifications (CISSP, CEH, RISS)
 - [Full Credentials](https://www.cyber-secure.jp/docs/credentials.html): Detailed certification and qualification records
 
 # Last updated: 2026-03-08
