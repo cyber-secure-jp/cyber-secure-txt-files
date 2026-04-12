@@ -4,13 +4,13 @@
   <!-- ===== Core Pages ===== -->
   <url>
     <loc>https://www.cyber-secure.jp/</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.cyber-secure.jp/home</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -34,7 +34,7 @@
   </url>
   <url>
     <loc>https://www.cyber-secure.jp/insights</loc>
-    <lastmod>2026-03-08</lastmod>
+    <lastmod>2026-04-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -72,6 +72,12 @@
   </url>
 
   <!-- ===== Insights Articles ===== -->
+  <url>
+    <loc>https://www.cyber-secure.jp/insights/ai-role-reallocation-reality-2026-04-12</loc>
+    <lastmod>2026-04-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
   <url>
     <loc>https://www.cyber-secure.jp/insights/multi-llm-consensus-design-2026-03-08</loc>
     <lastmod>2026-03-08</lastmod>
