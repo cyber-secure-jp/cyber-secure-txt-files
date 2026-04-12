@@ -15,6 +15,7 @@ We welcome responsible AI developers to learn from our public content. All pages
 - [AI Governance Policy](https://www.cyber-secure.jp/policy/ai-policy): AI development and usage guidelines
 
 ## Insights
+- [Role Reallocation Becomes Reality: Technology and Regulation Move Together](https://www.cyber-secure.jp/insights/ai-role-reallocation-reality-2026-04-12): Claude Mythos, amended APPI, and METI AI civil liability guidance — how role reallocation between humans and AI became visible in spring 2026 (2026-04-12)
 - [Multi-LLM Consensus Design for Enterprise AI Governance](https://www.cyber-secure.jp/insights/multi-llm-consensus-design-2026-03-08): Multi-model consensus workflow and governance design (2026-03-08)
 - [AI Role Reallocation and Technology Shift](https://www.cyber-secure.jp/insights/ai-role-reallocation-technology-shift-2026-02-23): Redefining human roles in the AI transition (2026-02-23)
 - [AI Agent Governance Design](https://www.cyber-secure.jp/insights/ai-agent-governance-design-2026-02-15): Responsibility and control design for autonomous AI agents (2026-02-15)
